@@ -46,16 +46,6 @@ Design       Figma  |  UI/UX  |  Responsive Design  |  Design Systems
       <p><strong>Stack:</strong> Next.js 16, TypeScript, TailwindCSS, Llama 3.3 AI, Tesseract OCR</p>
     </td>
     <td width="50%">
-      <h3 align="center">Yap</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Social_Media-Platform-purple?style=for-the-badge" />
-      </p>
-      <p>Real-time social media platform with clean UI, live messaging, notifications, and content sharing. Built for performance and scale.</p>
-      <p><strong>Stack:</strong> React, Node.js, Firebase, WebSockets</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">Omniverse</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Multi--Functional-Platform-green?style=for-the-badge" />
