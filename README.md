@@ -1,110 +1,69 @@
-<h1 align="center">Hey, I'm Ronak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+# Ronak Rai
 
-<p align="center">
-  <strong>Full Stack Developer & UI/UX Designer</strong><br/>
-  Building products that solve real problems. Shipping fast. Scaling smart.
-</p>
+### AI Engineer | Full-Stack Developer
 
-<p align="center">
-  <a href="https://fixmydevice-alpha.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Product-FixMyDevice_AI-blue?style=for-the-badge" />
-  </a>
-  <a href="mailto:ronakrai98@gmail.com">
-    <img src="https://img.shields.io/badge/Available_For-Freelance_Projects-green?style=for-the-badge" />
-  </a>
-</p>
+Founding Engineer at **Yap Network**, based in New Delhi, India. I work across AI applications, backend systems, automation and real-time products, taking engineering features from design through production delivery.
+
+[LinkedIn](https://www.linkedin.com/in/ronak-rai-90128a43b) · [Email](mailto:ronakrai98@gmail.com) · [Public repositories](https://github.com/Ronakrai0001?tab=repositories)
 
 ---
 
-### About Me
+## Experience
 
-- Building full-stack web & mobile apps for 3+ years
-- Focused on AI-powered products, SaaS, and platforms that generate revenue
-- Strong in both development AND design — I ship complete products, not just code
-- Currently building multi-agent AI systems + scalable SaaS platforms
+**Founding Engineer — Yap Network**  
+February 2026–Present · Full-time · Remote
 
-### Tech Stack
+- Lead protocol, product and technical direction for an on-chain social application built on Solana and live on mainnet.
+- Develop reward and engagement systems supporting community participation and creator incentives.
 
-```
-Frontend     React  |  Next.js  |  TypeScript  |  TailwindCSS  |  Flutter
-Backend      Node.js  |  Express  |  Python  |  Firebase  |  REST APIs
-Database     Firestore  |  MongoDB  |  PostgreSQL  |  Redis
-AI/ML        Claude  |  Groq  |  OpenRouter  |  Multi-Agent Orchestration
-DevOps       Vercel  |  Docker  |  GitHub Actions  |  CI/CD
-Design       Figma  |  UI/UX  |  Responsive Design  |  Design Systems
-```
+**Freelance Software Engineer — Self-Employed**  
+January 2024–Present · Freelance · Remote
 
-### 🚀 Featured Projects
+- Build full-stack applications, backend systems and independent AI products using Python, LLM APIs, RAG, embeddings and function calling.
+- Develop automation and multi-model orchestration workflows with a focus on cost-efficient inference and practical delivery.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Multi-Agent Coding Pipeline</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/85%25-Token_Savings-brightgreen?style=for-the-badge" />
-      </p>
-      <p>Python pipeline orchestrating <strong>7 AI models</strong> (Claude Opus 4.7 + GLM-4.5-Air + GPT-OSS 120B + Qwen3 + Llama 3.3 + Gemini 2.5 Flash). 3-pass pipeline: write → audit → check. Cuts Claude token spend 85% while keeping quality. Auto-generates HTML reports.</p>
-      <p><strong>Stack:</strong> Python, Anthropic SDK, OpenRouter, Groq, Gemini, Cerebras</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">FixMyDevice AI</h3>
-      <p align="center">
-        <a href="https://fixmydevice-alpha.vercel.app">
-          <img src="https://img.shields.io/badge/LIVE-Visit_Site-blue?style=for-the-badge" />
-        </a>
-      </p>
-      <p>AI-powered error diagnosis platform. Covers every device & coding error with instant AI fixes. 270+ guides, 14 categories, image OCR detection.</p>
-      <p><strong>Stack:</strong> Next.js 16, TypeScript, TailwindCSS, Llama 3.3 AI, Tesseract OCR</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Crusd</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Dating_App-Privacy_First-red?style=for-the-badge" />
-      </p>
-      <p>Privacy-focused dating app with smooth onboarding, real-time matching, and end-to-end encrypted conversations. Live and in production since 2025.</p>
-      <p><strong>Stack:</strong> Flutter, Firebase, Node.js</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Omniverse</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Multi--Functional-Platform-green?style=for-the-badge" />
-      </p>
-      <p>Scalable multi-functional platform with modular architecture. Handles multiple services under one ecosystem.</p>
-      <p><strong>Stack:</strong> React, Node.js, Firebase, REST APIs</p>
-    </td>
-  </tr>
-</table>
+**Software Engineer — AI / LLM & Full-Stack — MirageSystems**  
+February 2024–January 2026 · Full-time · Hybrid
 
-### What I Build
+- Owned product, backend and AI features from design through implementation and release.
+- Built and maintained real-time matching and encrypted-messaging systems for a live consumer application.
+- Integrated frontend, backend and AI components and resolved production issues.
 
-- **AI-Powered Products** — LLM integration, multi-agent orchestration, AI diagnosis tools
-- **SaaS Platforms** — Full-stack apps with auth, payments, dashboards
-- **Mobile Apps** — Cross-platform with Flutter, responsive PWAs
-- **Real-Time Apps** — Chat, notifications, live collaboration
-- **SEO-Optimized Sites** — SSG, structured data, programmatic SEO
+## Technical toolkit
 
-### 📊 GitHub Stats
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, JavaScript, TypeScript, SQL, Dart |
+| Web and mobile | React, Next.js, Flutter, Tailwind CSS |
+| Backend | Node.js, Express, REST APIs, WebSockets, Firebase Auth, Firestore, Cloud Functions |
+| AI applications | LLM APIs, Retrieval-Augmented Generation (RAG), embeddings, vector search, function calling, model orchestration |
+| Engineering | Git, Docker, Linux, Playwright, pytest |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronakrai0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronakrai0001&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## Project roadmap
 
-### 💼 Let's Work Together
+The following projects are **planned concepts**. Their scope is documented; implementation and measured results are future work.
 
-I'm available for **freelance projects and collaborations**. Full-stack build, from design to production deploy.
+### Document Intelligence Copilot
 
-<p align="center">
-  <a href="mailto:ronakrai98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ronakrai98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Problem:** Teams lose time searching fragmented documents, and AI-generated answers can lack supporting sources.
 
----
+**Planned approach:** Document ingestion, embedding-based retrieval and answers with source citations, using Python, Next.js, RAG and vector search. Evaluation will cover retrieval relevance, citation accuracy and response latency.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronakrai0001&style=flat-square&color=blue" />
-</p>
+### AI Workflow Orchestrator
+
+**Problem:** Multi-step AI automations can fail silently, duplicate paid API calls and obscure execution costs.
+
+**Planned approach:** Persistent job status, retry policies, idempotency keys, human approvals and per-provider cost tracking, exposed through a React dashboard and Python REST APIs.
+
+### Real-Time Team Workspace
+
+**Problem:** Distributed teams encounter stale task status, conflicting updates and inconsistent access controls.
+
+**Planned approach:** An authenticated collaboration workspace using Next.js, Node.js, WebSockets and Firebase, with role-based access, activity history and reconnect handling.
+
+## Opportunities
+
+Interested in AI application engineering and full-stack software roles involving practical automation, backend reliability and production delivery.
+
+**Contact:** [ronakrai98@gmail.com](mailto:ronakrai98@gmail.com)
+
