@@ -2,11 +2,11 @@
 
 <p align="center">
   <strong>AI & Full-Stack Product Engineer</strong><br>
-  Founding Engineer at Yap Network · New Delhi, India
+  Turning complex workflows into clear, dependable products.
 </p>
 
 <p align="center">
-  I build thoughtful AI-enabled products and reliable web systems, from idea to launch.
+  New Delhi, India · Open to freelance, contract, and full-time opportunities
 </p>
 
 <p align="center">
@@ -16,8 +16,6 @@
   <a href="https://github.com/Ronakrai0001?tab=repositories">Repositories</a>
 </p>
 
-<p align="center"><strong>Open to freelance, contract, and full-time opportunities.</strong></p>
-
 ---
 
 ## What I build
@@ -26,16 +24,31 @@
 - **Full-stack applications:** React, Next.js, Node.js, APIs, databases, and real-time experiences.
 - **Product and operations tools:** dashboards and workflows that make complex tasks clear and dependable.
 
-## Selected work
+## Selected projects
 
 ### KraftedX Invoice Operations
+**Interactive demo · React · TypeScript · Supabase**
 
-An interactive invoice workflow demo covering intake, work verification, approvals, follow-ups, payment records, and activity history.
+A working invoice workflow demo covering intake, work verification, approvals, follow-ups, payment records, and activity history.
 
-**Stack:** React · TypeScript · Supabase  
-[Open the live demo](https://kraftedx-invoices.onrender.com) · [Browse public repositories](https://github.com/Ronakrai0001?tab=repositories)
+[Open the live demo](https://kraftedx-invoices.onrender.com)
 
 *Demo only: it uses shared fictional records and does not process payments. Please do not enter personal or real business information. Source repository is private.*
+
+### Monsoon Studio
+**Storefront concept · React · TypeScript · Private repository**
+
+A storefront experience with a product catalog, original visual assets, and a browser-local cart. The public preview is currently paused.
+
+### AI Workflow Orchestrator
+**Planned · Private repository · Kickoff planned for Nov 26–27, 2026**
+
+A multi-step automation project focused on persistent workflow state, retries, idempotency, human approvals, and usage-cost visibility.
+
+### Document Intelligence Copilot
+**Planned · Private repository · Kickoff planned for Nov 26–27, 2026**
+
+A document retrieval assistant focused on source-linked answers, retrieval relevance, and citation accuracy.
 
 ## Experience
 
