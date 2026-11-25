@@ -26,22 +26,22 @@
 
 ## Selected projects
 
-### AI Workflow Orchestrator
+### [AI Workflow Orchestrator](https://github.com/Ronakrai0001/ai-workflow-orchestrator)
 **Private repository**
 
 A multi-step AI workflow orchestration project focused on persistent execution state, retries, idempotency, human approvals, and usage-cost visibility.
 
-### Document Intelligence Copilot
+### [Document Intelligence Copilot](https://github.com/Ronakrai0001/document-intelligence-copilot)
 **Private repository**
 
 A document retrieval assistant focused on source-linked answers, retrieval relevance, and citation accuracy.
 
-### Real-Time Team Workspace
+### [Real-Time Team Workspace](https://github.com/Ronakrai0001/real-time-team-workspace)
 **Private repository**
 
 A collaboration workspace focused on shared task boards, live updates, role-based access, activity history, and reconnect handling.
 
-### Kyu Yaar CRM
+### [Kyu Yaar CRM](https://github.com/Ronakrai0001/kyu-yaar-crm)
 **Private repository**
 
 A multi-tenant restaurant operations platform spanning company management, owner and manager workflows, staff operations, and QR menus and orders.
