@@ -26,29 +26,25 @@
 
 ## Selected projects
 
-### KraftedX Invoice Operations
-**Interactive demo · React · TypeScript · Supabase**
-
-A working invoice workflow demo covering intake, work verification, approvals, follow-ups, payment records, and activity history.
-
-[Open the live demo](https://kraftedx-invoices.onrender.com)
-
-*Demo only: it uses shared fictional records and does not process payments. Please do not enter personal or real business information. Source repository is private.*
-
-### Monsoon Studio
-**Storefront concept · React · TypeScript · Private repository**
-
-A storefront experience with a product catalog, original visual assets, and a browser-local cart. The public preview is currently paused.
-
 ### AI Workflow Orchestrator
-**Planned · Private repository · Kickoff planned for Nov 26–27, 2026**
+**Private repository**
 
-A multi-step automation project focused on persistent workflow state, retries, idempotency, human approvals, and usage-cost visibility.
+A multi-step AI workflow orchestration project focused on persistent execution state, retries, idempotency, human approvals, and usage-cost visibility.
 
 ### Document Intelligence Copilot
-**Planned · Private repository · Kickoff planned for Nov 26–27, 2026**
+**Private repository**
 
 A document retrieval assistant focused on source-linked answers, retrieval relevance, and citation accuracy.
+
+### Real-Time Team Workspace
+**Private repository**
+
+A collaboration workspace focused on shared task boards, live updates, role-based access, activity history, and reconnect handling.
+
+### Kyu Yaar CRM
+**Private repository**
+
+A multi-tenant restaurant operations platform spanning company management, owner and manager workflows, staff operations, and QR menus and orders.
 
 ## Experience
 
